@@ -7,7 +7,7 @@ class Car:                                          # class name should start wi
         self.model = model
 
 
-my_car = car("Toyota","Corolla")                 # agar hame car object mai koi value add karne hai toh hame ek special syntax banana hoga woh hai function jo ki upar hai
+my_car = Car("Toyota","Corolla")                 # agar hame car object mai koi value add karne hai toh hame ek special syntax banana hoga woh hai function jo ki upar hai
 print(my_car.brand)
 print(my_car.model)
 
