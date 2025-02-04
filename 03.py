@@ -1,4 +1,4 @@
-# 3.Write a Python progu
+# 3.Write a Python progam to print number if vowels in in the input
 input_str = str(input("Enter the string:"))
 vowels = "aeiou"
 vowels_count = 0
